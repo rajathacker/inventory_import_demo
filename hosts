@@ -1,0 +1,14 @@
+servera
+servera
+
+[new_york]
+web1
+web2
+
+[boston]
+db1
+db2
+
+[usa:children]
+new_york
+boston
